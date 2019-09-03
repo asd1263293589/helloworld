@@ -1,2 +1,3 @@
 # helloworld
-just another repository
+只是另一個存儲庫
+Hi humans
